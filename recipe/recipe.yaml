@@ -1,5 +1,5 @@
 context:
-  version: "0.42.0"
+  version: "0.43.0"
 
 package:
   name: nono
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/always-further/nono/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: bf01fce3524cbf6ec9486cc7d1e9316232249a10880194bcd0df7a4e5cc3ab39
+  sha256: afc6d23551ad4898a69fc85bb30880e6e5ef47c206cdf7125d03305bea1e21a9
 
 build:
   number: 0
