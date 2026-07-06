@@ -1,13 +1,13 @@
 context:
-  version: "0.66.0"
+  version: "0.67.1"
 
 package:
   name: nono
   version: ${{ version }}
 
 source:
-  url: https://github.com/always-further/nono/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: ce0e794676003f405dc6a297fe3d90079d00c19ceec52fc5c3c282867080b769
+  url: https://github.com/nolabs-ai/nono/archive/refs/tags/v${{ version }}.tar.gz
+  sha256: 1c0ec34a4eeedc0fce54c4982cbd0a871bd7e837f3e4567537188cb0de7bfe62
 
 build:
   number: 0
@@ -53,7 +53,7 @@ about:
     - LICENSE
     - THIRDPARTY.yml
   documentation: https://nono.sh/docs
-  repository: https://github.com/always-further/nono
+  repository: https://github.com/nolabs-ai/nono
 
 extra:
   recipe-maintainers:
