@@ -9,7 +9,7 @@ Package license: Apache-2.0
 
 Summary: Capability-based sandboxing library using Landlock (Linux) and Seatbelt (macOS).
 
-Development: https://github.com/always-further/nono
+Development: https://github.com/nolabs-ai/nono
 
 Documentation: https://nono.sh/docs
 
