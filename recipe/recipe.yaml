@@ -37,7 +37,7 @@ requirements:
     - ${{ compiler('rust') }}
     - cargo-bundle-licenses
     - cargo-auditable
-    - pkg-config
+    - pkgconf
   host:
     - dbus
 
